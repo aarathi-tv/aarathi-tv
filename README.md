@@ -10,9 +10,17 @@
 - AI Automation Workflows  
 
 ## 🛠 Skills
-- Java, SQL, Excel
-- AI Tools & Workflow Automation
-- Problem Structuring & Documentation
+- Java | SQL | Excel  
+- AI Tools & Automation (Make, ChatGPT, Multi-AI workflows)  
+- Product Thinking & Problem Structuring  
+- Requirement Documentation & Analysis
+  
+## 📌 Interests
+- Product Management
+- AI in Productivity
+- Social Impact Tech
+- Structured Problem Solving
+
 
 ## 📫 Connect
 LinkedIn: https://linkedin.com/in/aarathi-t-v  
