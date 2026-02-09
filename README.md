@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aarathi 👋
 
-<!--
-**aarathi-tv/aarathi-tv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+📌 Exploring Product Management & Tech  
+💡 Building structured, impact-driven projects  
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- ServeLink – NGO Volunteer Coordination Portal  
+- HerVoice – Anonymous sharing platform  
+- AI Automation Workflows  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Java, SQL, Excel
+- AI Tools & Workflow Automation
+- Problem Structuring & Documentation
+
+## 📫 Connect
+LinkedIn: https://linkedin.com/in/aarathi-t-v  
+Portfolio: https://aarathiportfolio.lovable.app
